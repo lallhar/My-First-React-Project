@@ -9,12 +9,12 @@ export default class About extends Component {
         <Image src="assets/dog-people.jpg" className="header-image" />
         <Grid>
           <Col xs={12} sm={8} smOffset={2}>
-            <Image src="assets/person-1.jpg" className="about-profile-pic" rounded />
-            <h3>Frank The Tank</h3>
-            <p>That's a crooked tree. We'll send him to Washington. These little son of a guns hide in your brush and you just have to push them out. These trees are so much fun. I get started on them and I have a hard time stopping. How to paint. That's easy. What to paint. That's much harder. Be brave. The man who does the best job is the one who is happy at his job.</p>
-            <p>Anyone can paint. You can do anything here. So don't worry about it. Life is too short to be alone, too precious. Share it with a friend. Every highlight needs it's own personal shadow.</p>
-            <p>That's what makes life fun. That you can make these decisions. That you can create the world that you want. Of course he's a happy little stone, cause we don't have any other kind. It's so important to do something every day that will make you happy.</p>
-            <p>You better get your coat out, this is going to be a cold painting. That's the way I look when I get home late; black and blue. That's crazy. We're trying to teach you a technique here and how to use it.</p>
+            <Image src="assets/person1.jpeg" className="about-profile-pic" rounded />
+            <h3>Sri Harsha Kota</h3>
+            <p>Have you ever looked at your favorite website and wondered exactly what made it tick? Have you looked at the way it was laid out, the way the buttons acted when you clicked them, or any other part and thought, “I wonder how complicated that is?” or, “I wish I could do that”?</p>
+            <p>All of those things are front end development. While web design is the way a website looks, front end development is how that design actually gets implemented on the web.</p>
+            <p>Front end developers use HTML, CSS, and JavaScript to code the website and web app designs created by web designers. The code they write runs inside the user’s browser (as opposed to a back end developer, whose code runs on the web server). Think of it a little like this: the back end developer is like the engineer who designs and creates the systems that make a city work (electricity, water and sewer, zoning, etc.), while the front end developer is the one who lays out the streets and makes sure everything is connected properly so people can live their lives (a simplified analogy, but you get the rough idea). They’re also in charge of making sure that there are no errors or bugs on the front end, as well as making sure that the design appears as it’s supposed to across various platforms and browsers.</p>
+            <p>I’ve combed through dozens of front end developer job listings to see which skills are the most in-demand right now. These are the things that real employers are looking for in job applicants today (and will still be looking for in the near future). Master these things and you’re certain to land an awesome front end dev job!</p>
           </Col>
         </Grid>
       </div>

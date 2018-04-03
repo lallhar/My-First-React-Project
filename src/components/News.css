@@ -2,3 +2,13 @@
     width: 100%;
     margin-bottom: 2em;
   }
+  p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    color: darkslategrey;
+  }
+
+  h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategrey;
+  }
